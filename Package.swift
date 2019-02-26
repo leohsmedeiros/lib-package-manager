@@ -7,7 +7,7 @@ let package = Package(
     name: "lib",
     products: [
         // Products define the executables and libraries produced by a package, and make them visible to other packages.
-        .executable(name: "lib", targets: ["lib"]),
+//        .executable(name: "lib", targets: ["lib"]),
         .library(name: "lib", targets: ["lib"]),
     ],
     dependencies: [
