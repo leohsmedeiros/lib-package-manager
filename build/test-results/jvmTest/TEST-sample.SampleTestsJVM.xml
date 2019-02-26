@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="sample.SampleTestsJVM" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-26T11:36:59" hostname="MacBook-Pro-de-Mac.local" time="0.035">
+<testsuite name="sample.SampleTestsJVM" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-26T12:51:12" hostname="MacBook-Pro-de-Mac.local" time="0.03">
   <properties/>
-  <testcase name="testHello" classname="sample.SampleTestsJVM" time="0.035"/>
+  <testcase name="testHello" classname="sample.SampleTestsJVM" time="0.03"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

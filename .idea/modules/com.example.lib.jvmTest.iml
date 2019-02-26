@@ -4,9 +4,9 @@
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JVM 1.6" useProjectSettings="false" isTestModule="true" externalProjectId="lib">
         <sourceSets>
+          <sourceSet>com.example.lib.commonTest</sourceSet>
           <sourceSet>com.example.lib.commonMain</sourceSet>
           <sourceSet>com.example.lib.jvmMain</sourceSet>
-          <sourceSet>com.example.lib.commonTest</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <compilerSettings />
@@ -48,7 +48,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="com.example.lib.commonMain" scope="TEST" />
+    <orderEntry type="module" module-name="com.example.lib.commonTest" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
@@ -58,8 +58,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.3.21" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test-common:1.3.21" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.21" level="project" />
-    <orderEntry type="module" module-name="com.example.lib.commonTest" scope="TEST" />
     <orderEntry type="module" module-name="com.example.lib.jvmMain" scope="TEST" />
+    <orderEntry type="module" module-name="com.example.lib.commonMain" scope="TEST" />
   </component>
   <component name="TestModuleProperties" production-module="com.example.lib.jvmMain" />
 </module>
