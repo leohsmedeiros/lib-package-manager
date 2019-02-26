@@ -21,8 +21,10 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../src/commonMain">
+    <content url="file://$MODULE_DIR$/../../src/commonMain/kotlin">
       <sourceFolder url="file://$MODULE_DIR$/../../src/commonMain/kotlin" type="kotlin-source" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../src/commonMain/resources">
       <sourceFolder url="file://$MODULE_DIR$/../../src/commonMain/resources" type="kotlin-resource" />
     </content>
     <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />

@@ -7,8 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.lib.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.lib.commonTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.lib.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.lib.iosMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.lib.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.lib.iosTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.lib.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.lib.jvmMain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.lib.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.lib.jvmTest.iml" />
     </modules>
   </component>
 </project>
