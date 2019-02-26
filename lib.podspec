@@ -34,7 +34,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.1'
 
-  s.source_files = 'release/lib.framework/**/*'
+  s.source_files = 'release/**/*'
 
   # s.source_files = 'release/ios/main/irvemsharedlib.klib'
   # s.public_header_files = 'release/ios/irvemsharedlib.framework/Headers/**/*.h'

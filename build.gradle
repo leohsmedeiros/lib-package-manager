@@ -24,8 +24,8 @@ final def frameworkName = rootProject.name
 kotlin {
     jvm()
     // This is for iPhone emulator
-    // Switch here to iosArm64 (or iosArm32) to build library for iPhone device
-//    iosX64("ios") {
+    // iosX64: Switch here to iosArm64 (or iosArm32) to build library for iPhone device
+
     iosArm64("ios") {
         compilations.main.outputKinds("framework")
         binaries {

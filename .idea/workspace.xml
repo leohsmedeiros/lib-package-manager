@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fe99809-d497-48a6-9e8e-4265aeea2fda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.example.lib.iosMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.example.lib.iosMain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.example.lib.iosTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.example.lib.iosTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.example.lib.jvmTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.example.lib.jvmTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/lib/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/lib/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/lib/lib" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/lib/lib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/libDebugFramework/lib.framework.dSYM/Contents/Resources/DWARF/lib" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/libDebugFramework/lib.framework.dSYM/Contents/Resources/DWARF/lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/libDebugFramework/lib.framework/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/libDebugFramework/lib.framework/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/libDebugFramework/lib.framework/lib" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/libDebugFramework/lib.framework/lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/libReleaseFramework/lib.framework/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/libReleaseFramework/lib.framework/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/libReleaseFramework/lib.framework/lib" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/libReleaseFramework/lib.framework/lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/mainDebugFramework/main.framework.dSYM/Contents/Resources/DWARF/main" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/mainDebugFramework/main.framework.dSYM/Contents/Resources/DWARF/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/mainDebugFramework/main.framework/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/mainDebugFramework/main.framework/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/mainDebugFramework/main.framework/main" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/mainDebugFramework/main.framework/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/mainReleaseFramework/main.framework/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/mainReleaseFramework/main.framework/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/mainReleaseFramework/main.framework/main" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/mainReleaseFramework/main.framework/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/testDebugExecutable/test.kexe" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/testDebugExecutable/test.kexe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bin/ios/testDebugExecutable/test.kexe.dSYM/Contents/Resources/DWARF/test.kexe" beforeDir="false" afterPath="$PROJECT_DIR$/build/bin/ios/testDebugExecutable/test.kexe.dSYM/Contents/Resources/DWARF/test.kexe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/ios/main/lib.klib" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/ios/main/lib.klib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlinJvm/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlinJvm/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlinJvm/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlinJvm/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlinJvm/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlinJvm/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlinJvm/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlinJvm/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/lib-jvm-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/lib-jvm-0.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/lib-metadata-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/lib-metadata-0.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/jvmTest/classes/sample.SampleTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/jvmTest/classes/sample.SampleTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/jvmTest/classes/sample.SampleTestsJVM.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/jvmTest/classes/sample.SampleTestsJVM.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/jvmTest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/jvmTest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/jvmTest/packages/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/jvmTest/packages/sample.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/jvmTest/TEST-sample.SampleTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/jvmTest/TEST-sample.SampleTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/jvmTest/TEST-sample.SampleTestsJVM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/jvmTest/TEST-sample.SampleTestsJVM.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/jvmTest/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/jvmTest/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -76,20 +34,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="150">
+              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="213">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -115,8 +73,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/gradle.properties" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -215,7 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551185476930" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551188367067" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -288,6 +246,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -329,20 +288,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="213">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
