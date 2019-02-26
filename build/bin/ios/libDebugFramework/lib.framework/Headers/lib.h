@@ -160,6 +160,7 @@ __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("SampleKt")))
 @interface LibSampleKt : KotlinBase
 + (NSString *)hello __attribute__((swift_name("hello()")));
++ (NSString *)sayGoodbye __attribute__((swift_name("sayGoodbye()")));
 @end;
 
 NS_ASSUME_NONNULL_END
